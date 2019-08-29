@@ -9,4 +9,7 @@ optimal page size ![optimal_eqn](https://raw.githubusercontent.com/ladzaretti/te
 
 _Where_
 - s - program's text seg size
-- e - page table entry size <br/> (e is assumed to be of size 4)
+- e - page table entry size <br/> (e is assumed to be 4 bytes)
+
+directories in question: <br/> >> /bin 
+<br/> >> /usr/bin
