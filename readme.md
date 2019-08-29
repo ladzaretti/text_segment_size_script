@@ -16,4 +16,4 @@ directories in question: <br/> >> /bin
 
 
 ## Output sample <br/>
-![output](https://raw.githubusercontent.com/ladzaretti/text_segment_size_script/master/output_sample.png)
+![output](https://raw.githubusercontent.com/ladzaretti/text_segment_size_script/master/output_sample2.png)
