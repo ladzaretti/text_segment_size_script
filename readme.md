@@ -13,3 +13,7 @@ _Where_
 
 directories in question: <br/> >> /bin 
 <br/> >> /usr/bin
+
+
+## Output sample <br/>
+![output](https://raw.githubusercontent.com/ladzaretti/text_segment_size_script/master/output_sample.png)
