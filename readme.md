@@ -5,7 +5,7 @@
 > <br /><br />
 > Based on those values, the optimal page size is then calculated.
 
-optimal page size = ![optimal_eqn](https://raw.githubusercontent.com/ladzaretti/text_segment_size_script/master/CodeCogsEqn.png)
+optimal page size ![optimal_eqn](https://raw.githubusercontent.com/ladzaretti/text_segment_size_script/master/CodeCogsEqn.png)
 
 _Where_
 - s - program's text seg size
